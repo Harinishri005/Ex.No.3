@@ -3,6 +3,7 @@
 ### DATE:17.9.2025                                                                       
 ### REGISTER NUMBER :212223090008
 ### Aim:
+
 Prompt engineering plays a crucial role in shaping how large language models (LLMs) like ChatGPT generate responses. The effectiveness of AI-driven communication often depends not only on the dataset but also on how questions or instructions are framed. In various real-world applications such as education, healthcare, business decision-making, and customer support, the way prompts are designed can determine the accuracy, clarity, and usefulness of the output.
 
 This report provides a detailed exploration of **scenario-based report development** using four diverse prompting techniques:
@@ -14,6 +15,7 @@ This report provides a detailed exploration of **scenario-based report developme
 
 
 ## 1. Straightforward Prompts
+
 
 ### Definition
 
@@ -30,6 +32,7 @@ A **medical electronics student** preparing for a viva examination may need conc
 
 
 ## 2. Tabular Format Prompting
+
 
 ### Definition
 
@@ -54,6 +57,7 @@ A **business analyst** comparing different cloud service providers needs structu
 
 
 ## 3. Missing Word Prompting
+
 
 ### Definition
 
@@ -85,6 +89,7 @@ A **university student** preparing a project report on artificial intelligence m
 * **Main Question**: *“Considering these advantages, how can AI help in early disease detection?”*
 
 * **AI Response**: *“Since AI provides faster data analysis, image recognition in medical scans, and predictive analytics, it can help in early disease detection by identifying patterns that humans may miss, thereby improving diagnostic accuracy.”*
+  
 
 
 ## Comparative Analysis of Prompting Techniques
@@ -99,6 +104,7 @@ A **university student** preparing a project report on artificial intelligence m
 
 
 ### Conclusion 
+
 Prompt engineering plays a vital role in enhancing the effectiveness of AI responses by shaping the way questions are framed. Each technique serves a unique purpose, with straightforward prompts offering quick answers and tabular prompts providing clear comparisons. Missing word prompts encourage active learning and knowledge testing, while preceding question prompts ensure depth and contextual relevance. By applying the right prompting method to the right scenario, users can improve clarity, accuracy, and engagement in AI-driven communication. Thus, prompt engineering becomes a key tool for achieving meaningful and goal-oriented interactions with AI systems.
 
 
