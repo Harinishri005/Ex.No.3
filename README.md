@@ -2,6 +2,8 @@
 
 ### DATE:17.9.2025                                                                       
 ### REGISTER NUMBER :212223090008
+
+
 ### Aim:
 
 Prompt engineering plays a crucial role in shaping how large language models (LLMs) like ChatGPT generate responses. The effectiveness of AI-driven communication often depends not only on the dataset but also on how questions or instructions are framed. In various real-world applications such as education, healthcare, business decision-making, and customer support, the way prompts are designed can determine the accuracy, clarity, and usefulness of the output.
